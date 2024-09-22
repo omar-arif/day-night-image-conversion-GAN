@@ -1,4 +1,4 @@
-# Generating pairs of images using the CARLA Simulator.
+# Generating pairs of images using the CARLA Simulator
 
 **Authors**: Hamza Benmendil, Omar Khalifa Arif
 
